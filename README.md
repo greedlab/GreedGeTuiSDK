@@ -1,6 +1,6 @@
-# GreedGeTuiSDK
+# GreedGeTuiSDK `弃用`
 
-iOS版个推SDK
+iOS版个推SDK，此仓库不再维护，请使用 [官方版](https://github.com/GetuiLaboratory/getui-sdk-ios-cocoapods)
 
 * [个推官网](http://www.getui.com/)
 * [个推文档](http://docs.getui.com/mobile/ios/overview/)
